@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @securecobra
-- I’m interested in cybersecurity, generally obsessed with technology
-- I’m currently studying computer engineering in university, meanwhile persuing personal quests separately.
+- I’m interested in cybersecurity, generally obsessed with technology.
+- I’m currently studying computer engineering in university, while persuing side-quests separately.
 - I don't find myself eligible to do projects (yet). But i strongly believe in learning through practice.
 - You can reach me on my e-mail: fatitar206@gmail.com
 
